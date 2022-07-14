@@ -1,0 +1,9 @@
+create
+
+// controller me function bnao create ke nam ka
+// function me get or post vala define kro
+// get me view dikhao
+// view me sari field dikhao
+// route bnao get or post
+// action me route likho
+// fir post me kam kro
